@@ -5,3 +5,5 @@ I had to explore 'AdventureWorks 2005' [database](https://learn.microsoft.com/en
 
 * Task 1: An Overview of Products
 * Task 2: Reporting Sales numbers
+
+Descriptions of each part of the tasks can be found at the beginning of each file as a comment.
